@@ -1,0 +1,10 @@
+<Alloy>
+	<Window class="container">
+		<View>
+			<Label>Hola</Label>
+			<Button id="btnMain">Click Me!</Button>		
+			<Button top="50" id="button">Modal</Button>
+		</View>
+		
+	</Window>
+</Alloy>

@@ -1,0 +1,21 @@
+<Alloy>
+	<Window>
+		<ScrollableView showPagingControl>
+			<View class="container">
+				<ImageView id="img" image='https://s3-us-west-1.amazonaws.com/storage-platform.cloud.appcelerator.com/1TZyF8iwgHGerbSOjtbo8UNYiiKwuGaN/photos/70/a6/5b58c6f659470c0219374b94/tixhr55508876_original.jpg'></ImageView>		
+			</View>	
+			<View class="container">
+				<ImageView id="img" image='https://s3-us-west-1.amazonaws.com/storage-platform.cloud.appcelerator.com/1TZyF8iwgHGerbSOjtbo8UNYiiKwuGaN/photos/31/ae/5b580eadeb0ec602193425e7/tixhr1477177716_original.jpg'></ImageView>		
+			</View>		
+			<View class="container">
+				<ImageView id="img" image='https://s3-us-west-1.amazonaws.com/storage-platform.cloud.appcelerator.com/1TZyF8iwgHGerbSOjtbo8UNYiiKwuGaN/photos/89/2b/5b57d61fcac39f021930ae64/tixhr503024600_original.jpg'></ImageView>		
+			</View>		
+			<View class="container">
+				<ImageView id="img" image='https://s3-us-west-1.amazonaws.com/storage-platform.cloud.appcelerator.com/1TZyF8iwgHGerbSOjtbo8UNYiiKwuGaN/photos/84/c3/5b57d2dad53a360220315b6b/tixhr1300195440_original.jpg'></ImageView>		
+			</View>		
+			<View class="container">
+				<ImageView id="img" image='https://s3-us-west-1.amazonaws.com/storage-platform.cloud.appcelerator.com/1TZyF8iwgHGerbSOjtbo8UNYiiKwuGaN/photos/95/8a/5b57be50b6d89502203262f0/tixhr384620174_original.jpg'></ImageView>		
+			</View>			
+		</ScrollableView>
+	</Window>
+</Alloy>
