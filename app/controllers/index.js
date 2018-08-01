@@ -6,5 +6,6 @@ $.btnMain.addEventListener('click', function(e){
 });
 
 $.button.addEventListener('click', function(e){
-	alert('ModalView');
+	var modal = Alloy.createController('modal').getView();
+	modal.open();
 });
