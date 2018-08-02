@@ -1,7 +1,7 @@
 <Alloy>
 	<Window>
 		<View class="container">
-			<Label>HttpGet</Label>				
+			<Button id="btnGet">GET</Button>	
 		</View>
 	</Window>
 </Alloy>
