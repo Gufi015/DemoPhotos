@@ -1,7 +1,7 @@
 <Alloy>
 	<Window>
 		<ScrollableView showPagingControl>
-			<View class="container">
+			<!--View class="container">
 				<ImageView id="img" image='https://s3-us-west-1.amazonaws.com/storage-platform.cloud.appcelerator.com/1TZyF8iwgHGerbSOjtbo8UNYiiKwuGaN/photos/70/a6/5b58c6f659470c0219374b94/tixhr55508876_original.jpg'></ImageView>		
 			</View>	
 			<View class="container">
@@ -15,7 +15,12 @@
 			</View>		
 			<View class="container">
 				<ImageView id="img" image='https://s3-us-west-1.amazonaws.com/storage-platform.cloud.appcelerator.com/1TZyF8iwgHGerbSOjtbo8UNYiiKwuGaN/photos/95/8a/5b57be50b6d89502203262f0/tixhr384620174_original.jpg'></ImageView>		
-			</View>			
+			</View-->	
+			
+			<ImageView id="demo"></ImageView>	
+			
+			<Label>Success</Label>
+					
 		</ScrollableView>
 	</Window>
 </Alloy>
