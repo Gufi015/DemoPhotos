@@ -1,7 +1,5 @@
 <Alloy>
-	<Window>
-		<View class="container">
-			<Button id="btnGet">GET</Button>	
-		</View>
+	<Window class="container">
+		
 	</Window>
 </Alloy>

@@ -1,10 +1,23 @@
 <Alloy>
 	<Window class="container">
-		<View>
-			<Label>Hola</Label>
-			<Button id="btnMain">Click Me!</Button>		
-			<Button top="50" id="button">Modal</Button>
+		<View id="contenedorGeneral">
+			<Label id="usuarioLabel" class="loginLabel" text="Usuario:"></Label>
+			<View class="contenedorElemtos">
+				<TextField id="usuarioField"  class="loginField" value=""/>
+			</View>
+			<Label id="contraseñaLabel" class="loginLabel" text="Contraseña:"></Label>
+			<View class="contenedorElemtos">
+				<TextField id="contraseñaField" class="loginField" value="" />
+			</View>
+			<View id="contenedorEntrar">
+				<Button id="botonEntrar" class="logEntrarButton"   title="Entrar"></Button>
+			</View>
+			<View id="contenedorCrear">
+				<Button id="botonEntrar" class="logEntrarButton"  title="Crear Usuario"></Button>
+			</View>
+			<View id="contenedorRecuperar">
+				<Button id="botonRecuperar" class="logEntrarButton"   title="Recuperar Contraseña"></Button>
+			</View>
 		</View>
-		
 	</Window>
 </Alloy>
